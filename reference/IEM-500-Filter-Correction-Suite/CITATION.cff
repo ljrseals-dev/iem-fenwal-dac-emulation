@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying paper, please cite it as below."
+title: "IEM-500 Filter Correction Suite"
+type: software
+authors:
+  - family-names: McInnis
+    given-names: Maurice
+  - family-names: Seals
+    given-names: Adonna
+  - family-names: Anderson
+    given-names: Claudia
+  - family-names: Seals
+    given-names: Angela
+abstract: >-
+  Reference implementation of corrected bypass semantics, linear filter
+  sections, and oversampled nonlinear magnetic modeling for inductor-based
+  equalizer research. Companion code to the paper "High-Pass and Low-Pass
+  Modeling Failures in Inductor EQ Emulations".
+keywords:
+  - audio signal processing
+  - equalizer
+  - inductor
+  - hysteresis
+  - Jiles-Atherton
+  - oversampling
+  - wave digital filter
+  - research scaffold
+license: Other
+version: 0.1.0
+date-released: "2026-09-21"
